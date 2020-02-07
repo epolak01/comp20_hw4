@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type='text/css' href = 'xmlstyle.css' ?>
+<SetList>
+    <SongNumber type = "1">
+        <Artists>Run The Jewels</Artists>
+        <Title>Down</Title>
+        <Genres>
+            <Primary_Genre>Hip Hop</Primary_Genre>
+            <Secondary_Genre>Rap</Secondary_Genre>
+        </Genres>
+        <Year>2016</Year>
+    </SongNumber>
+
+    <SongNumber type="2">
+        <Artists>The Verse</Artists>
+        <Title>Bitter Sweet Symphony</Title>
+        <Genres>
+            <Primary_Genre>Rock</Primary_Genre>
+            <Secondary_Genre>Britpop</Secondary_Genre>
+        </Genres>
+        <Year>1997</Year>
+    </SongNumber>
+
+    <SongNumber type="3">
+        <Artists>Asap Rocky</Artists>
+        <Title>Forever</Title>
+        <Genres>
+            <Primary_Genre>Hip Hop</Primary_Genre>
+            <Secondary_Genre>Rap</Secondary_Genre>
+        </Genres>
+        <Year>2018</Year>
+    </SongNumber>
+
+    <SongNumber type="4">
+        <Artists>Queen</Artists>
+        <Title>Jazz</Title>
+        <Genres>
+            <Primary_Genre>Classic Rock</Primary_Genre>
+            <Secondary_Genre>Pop</Secondary_Genre>
+        </Genres>
+        <Year>1978</Year>
+    </SongNumber>
+
+    <SongNumber type="5">
+        <Artists>Eric Nally</Artists>
+        <Title>Black</Title>
+        <Genres>
+            <Primary_Genre>Pop</Primary_Genre>
+            <Secondary_Genre>Indie</Secondary_Genre>
+        </Genres>
+        <Year>2017</Year>
+    </SongNumber>
+
+    <SongNumber type="6">
+        <Artists>Shakka</Artists>
+        <Title>Say Nada</Title>
+        <Genres>
+            <Primary_Genre>R and B</Primary_Genre>
+            <Secondary_Genre>Soul</Secondary_Genre>
+        </Genres>
+        <Year>2015</Year>
+    </SongNumber>
+
+    <SongNumber type="7">
+        <Artists>Lil Wayne</Artists>
+        <Title>6 Foot 7 Foot</Title>
+        <Genres>
+            <Primary_Genre>Hip Hop</Primary_Genre>
+            <Secondary_Genre>Rap</Secondary_Genre>
+        </Genres>
+        <Year>2011</Year>
+    </SongNumber>
+
+    <SongNumber type="8">
+        <Artists>Portugal. The Man</Artists>
+        <Title>Easy Tiger</Title>
+        <Genres>
+            <Primary_Genre>Alternative</Primary_Genre>
+            <Secondary_Genre>Indie</Secondary_Genre>
+        </Genres>
+        <Year>2017</Year>
+    </SongNumber>
+
+    <SongNumber type="9">
+        <Artists>Major Lazer</Artists>
+        <Title>Powerful</Title>
+        <Genres>
+            <Primary_Genre>Dance</Primary_Genre>
+            <Secondary_Genre>Electronic</Secondary_Genre>
+        </Genres>
+        <Year>2015</Year>
+    </SongNumber>
+
+    <SongNumber type="10">
+        <Artists>Red Hot Chili Peppers</Artists>
+        <Title>Can't Stop</Title>
+        <Genres>
+            <Primary_Genre>Alternative</Primary_Genre>
+            <Secondary_Genre>Indie</Secondary_Genre>
+        </Genres>
+        <Year>2002</Year>
+    </SongNumber>
+</SetList>
